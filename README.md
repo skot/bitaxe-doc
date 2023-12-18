@@ -6,7 +6,7 @@
 This Documentation will focus on document everything that is related with the Bitaxe project.
 
 Contributing to this Github repository is highly anticipated and will be done via Github Pull request.
-More on how to do that can be found [here](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+More on how to do that can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ---
 
