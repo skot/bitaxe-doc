@@ -6,7 +6,7 @@ The BitaxeMax which uses the ASIC BM1397 chip was the first working open source 
 
 1. 🤖 [Introduction](#introduction)
 2. 🛠️ [Hardware](#hardware)
-3. ⚙️ [Configure the BitaxeMAX](#guide)
+3. ⚙️ [Guide the BitaxeMAX](#guide)
 4. 🔋 [Features](#features)
 5. 🎯 [Goals](#goals)
 6. 📝 [To-Do's](#todo)
@@ -35,6 +35,23 @@ The Bitaxe in general uses an <b>ESP32-S3-WROOM-1</b> to operate the whole devic
 - The BM1397 has the same footprint as the BM1387, but a very different pinout.
   - It also has two "Modes" that change some of the signal pins around to make chaining easy
 - The BM1397 is driven by an undocumented protocol over UART. Baudrate is 115200bps by default but can go up to 6Mbps in order to provide mining jobs quickly enough to the ASIC daisy-chain.
+
+---
+
+# <a name="guide">⚙️ Guide
+
+The BitaxeMAX be either purchased as a fully functional standalone Bitcoin miner, or you can build your own with the following guides in [Assembly](assembly.md) and [Building](building.md).
+
+## Building
+
+1. Building and Assembliy
+
+   - These two readme files will guide you throu the process of whats needed to build and order your own BitaxeMAX board.
+     - [Assembly-readme](assembly.md)
+     - [Building-readme](building.md)
+
+2. Schematics
+   - Futhermore for a more detailed view into the Schematics of the BitaxeMAX board you can view [BitaxeMaxSchematic](bitaxeMax_schematic.pdf).
 
 ---
 
