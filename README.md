@@ -64,6 +64,7 @@ To find yourself in the correct Documentation about a specific model you want to
 
 - [ ] Hex
 - [ ] 201+ TP reading's
+- [ ] Section for Public Pool
 
 ---
 
