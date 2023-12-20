@@ -41,6 +41,8 @@ Each of these parts will have it's own `README.md`
 
 To find yourself in the correct Documentation about a specific model you want to build or get to know more about take a look in the [BitaxeMAX (BM1397)](/BitaxeMAX/), [BitaxeUltra (BM1366)](/BitaxeUltra/) and [BitaxeHex](/BitaxeHEX/) section.
 
+In the selected section you will also find an `assembly.md` and a `building.md` these files will give you a general understanding of whats needed to build your own PCB and how to assemble it later on.
+
 ---
 
 ## <a name="features">🔋 Features
