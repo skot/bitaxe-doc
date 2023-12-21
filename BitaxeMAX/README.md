@@ -1,6 +1,6 @@
 # BitaxeMax(1397)
 
-The BitaxeMax which uses the ASIC BM1397 chip was the first working open source Bitcoin miner.
+The BitaxeMax is the world's first open source Bitcoin Miner which uses the ASIC BM1397 chip to achieve astonishing results.
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -49,9 +49,30 @@ The BitaxeMAX be either purchased as a fully functional standalone Bitcoin miner
    - These two readme files will guide you throu the process of whats needed to build and order your own BitaxeMAX board.
      - [Assembly-readme](assembly.md)
      - [Building-readme](building.md)
+   - There are some Videos and Streams about how to Assembly a Bitaxe from scratch from some YouTubers such as [D-Central](https://www.youtube.com/@DCentralTech) and [WantClue](https://www.youtube.com/@WantClue)
 
 2. Schematics
+
    - Futhermore for a more detailed view into the Schematics of the BitaxeMAX board you can view [BitaxeMaxSchematic](bitaxeMax_schematic.pdf).
+
+3. Manufacturing Files
+   - In the [Manufacturing_Files_Folder](Manufacturing_Files) you will find all the necessary files to create your own PCB from Gerber files and the BOM(Build of Matierial) a list of all the components needed to build the BitaxeMAX
+
+---
+
+## Software
+
+1. Building your Software
+
+   - You can build your own binary files from the source code. For more details follow this [Placeholder]()
+
+2. Using a prebuild
+
+   - Every Bitaxe is controlled by the open source available [ESP-Miner](https://github.com/skot/ESP-Miner) software. It features a WebUi for user friendly usage and controlablility.
+     In this repository you will also find a [releases](https://github.com/skot/ESP-Miner/releases) Page that will contain prebuild binary files to flash to your Bitaxe using the [Bitaxetool](https://github.com/johnny9/bitaxetool) created by [johnny9](https://github.com/johnny9)
+
+3. Flashing Process
+   - The [ESP-Miner](https://github.com/skot/ESP-Miner) Software can be flashed via a USB cable onto the Bitaxe. Therefore you need to follow the initial Guide in the repository.
 
 ---
 
@@ -63,21 +84,6 @@ The BitaxeMAX be either purchased as a fully functional standalone Bitcoin miner
 - **TI INA260** power meter measures the input voltage and current of the miner
 - **Microchip EMC2101** measures the BM1397 internal diode temperature. Also PWM controls the fan and monitors tach output.
 - Two **sweet** RGB status LEDs
-
----
-
-## Software
-
-Every Bitaxe is controlled by the open source available [ESP-Miner](https://github.com/skot/ESP-Miner) software. It features a WebUi for user friendly usage and controlablility.
-
-- [ESP-Miner](https://github.com/skot/ESP-Miner) firmware in progress.
-
----
-
-## Building
-
-- Check out [building.md](building.md) for PCB ordering tips
-- Check out [assembly.md](assembly.md) for assembly tips
 
 ---
 
