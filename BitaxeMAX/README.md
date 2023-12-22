@@ -40,7 +40,7 @@ The Bitaxe in general uses an <b>ESP32-S3-WROOM-1</b> to operate the whole devic
 
 # <a name="guide">⚙️ Guide
 
-The BitaxeMAX be either purchased as a fully functional standalone Bitcoin miner, or you can build your own with the following guides in [Assembly](assembly.md) and [Building](building.md).
+The BitaxeMAX can be either purchased as a fully functional standalone Bitcoin miner, or you can build your own with the following guides in [Assembly](assembly.md) and [Building](building.md). Building this on your own will take much longer and requires a high skillset of SMD soldering and handling.
 
 ## Building
 
@@ -64,12 +64,12 @@ The BitaxeMAX be either purchased as a fully functional standalone Bitcoin miner
 
 1. Building your Software
 
-   - You can build your own binary files from the source code. For more details follow this [Placeholder]()
+   - You can build your own binary files from the source code. For more details follow this [Build-Guide](/BitaxeMAX/software.md).
 
 2. Using a prebuild
 
    - Every Bitaxe is controlled by the open source available [ESP-Miner](https://github.com/skot/ESP-Miner) software. It features a WebUi for user friendly usage and controlablility.
-     In this repository you will also find a [releases](https://github.com/skot/ESP-Miner/releases) Page that will contain prebuild binary files to flash to your Bitaxe using the [Bitaxetool](https://github.com/johnny9/bitaxetool) created by [johnny9](https://github.com/johnny9)
+   - In this repository you will also find a [releases](https://github.com/skot/ESP-Miner/releases) page that will contain prebuild binary files to flash to your Bitaxe using the [Bitaxetool](https://github.com/johnny9/bitaxetool) created by [johnny9](https://github.com/johnny9).
 
 3. Flashing Process
    - The [ESP-Miner](https://github.com/skot/ESP-Miner) Software can be flashed via a USB cable onto the Bitaxe. Therefore you need to follow the initial Guide in the repository.
