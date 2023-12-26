@@ -84,11 +84,16 @@ This documentation features the following:
 
 - An interactive build of material, to allow you to assemble the Bitaxe quicker. [iBOM](/BitaxeUltra/Manufacturing_Files/ibom.html)
 - The Bitaxe Ultra features a BM1366 ASIC chip (usually the AG variant)
--
 
 ## <a name="goals">🎯 Goals
 
+- [x] The most efficient open source miner 19J/TH
+- [ ] Make the mining industry a bit more open source
+
 ## <a name="todo">📝 To-Do's
+
+- [ ] TP Readings
+- [ ] Freq / Voltage area
 
 ### <a name="pictures">🖼️ Pictures
 
