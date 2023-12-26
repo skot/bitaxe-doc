@@ -96,8 +96,9 @@ The Bitaxe-instructions.pdf file contains a general instruction set.
   - [OSMU](https://opensourceminer.com)
   - [JABIT](https://www.jabitaxe.com)
 
-- And 4 other selling Bitaxe aswell:
+- And 5 other selling Bitaxe aswell:
   - [D-Central](https://d-central.tech)
   - [RGZen](https://www.rgzen.com/index.php)
   - [Altair](https://altairtech.io/product/bitaxe/)
   - [BitcoinMerch](https://bitcoinmerch.com/de/products/bitcoin-merch%C2%AE-bitaxe-1366-solo-bitcoin-miner-up-to-500gh-s)
+  - [Thesolomining](https://www.thesolomining.co/bitaxe)
